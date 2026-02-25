@@ -20,9 +20,7 @@
 - `data/` - входные данные соревнования
 - `cache/` - промежуточные кэшированные признаки
 
-## Зависимости
-
-Минимальный набор библиотек:
+## Зависимости:
 
 - `numpy`
 - `pandas`
@@ -31,9 +29,6 @@
 - `catboost`
 - `pyarrow`
 - `jupyter`
-
-Пример установки:
-
 ```bash
 pip install numpy pandas polars scikit-learn catboost pyarrow jupyter
 ```
@@ -53,3 +48,5 @@ pip install numpy pandas polars scikit-learn catboost pyarrow jupyter
 - `predict`
 
 и готов к загрузке в систему соревнования.
+
+Контакт: [@fle3n](https://t.me/Fle3n)
